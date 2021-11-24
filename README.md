@@ -1,4 +1,4 @@
-# motorola_foles_dump
+# Motorola Moto Z4 (foles) stock firmware dump
 ## user 10 QPFS30.130-15-11-15 6c4ce release-keys
 - Manufacturer: motorola
 - Platform: sm6150
