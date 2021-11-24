@@ -1,0 +1,13 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=6c4ce
+ro.build.version.ci=14
+ro.mot.build.guid=9e339f4a1e96880
+ro.mot.base_buildid=QPF30.130-15-11/aa2f
+ro.product.name=foles
+ro.product.system.name=foles
+ro.product.product.name=foles
+ro.mot.build.oem.product=foles
+ro.mot.build.customerid=retail
+ro.product.device=foles
